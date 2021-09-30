@@ -12,8 +12,8 @@
 	<project path="device/xiaomi/ginkgo" name="android_device_xiaomi_ginkgo" remote="arrow"/>
 	<project path="kernel/xiaomi/ginkgo" name="android_kernel_xiaomi_ginkgo" remote="arrow"/>
 	<project path="vendor/xiaomi/ginkgo" name="android_vendor_xiaomi_ginkgo" remote="arrow"/>
-        <project path="prebuilts/clang/host/linux-x86/clang-sdllvm" name="proprietary_vendor_qcom_sdclang" remote="trinket-dev" revision="ruby-12"/>
-        <project path="vendor/miuicamera" name="vendor_miuicamera" remote="trinket-dev" revision="11.0"/>
+       <project path="prebuilts/clang/host/linux-x86/clang-sdllvm" name="proprietary_vendor_qcom_sdclang" remote="trinket-dev" revision="ruby-12"/>
+       <project path="vendor/miuicamera" name="vendor_miuicamera" remote="trinket-dev" revision="11.0"/>
 
 </manifest>
   	
